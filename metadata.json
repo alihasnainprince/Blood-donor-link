@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donors Link",
+  "description": "A secure, real-time blood donation matching and emergency alert coordination application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
